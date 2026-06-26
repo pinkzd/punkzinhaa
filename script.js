@@ -85,7 +85,7 @@ mas você continua sendo
 o meu porto seguro e o meu ideal.
 
 Históricamente comprovado:
-Eu sempre volto.`
+Eu sempre volto.`,
 
 `❤️ Um lembrete filosófico:
 
@@ -120,7 +120,7 @@ Status do Sentimento:
 ✔ Intacto, seguro e pensando em você.
 
 O silêncio é só foco aqui.
-Te adoro. Até já.`,
+Te adoro. Até já.`
 
 ];
 
