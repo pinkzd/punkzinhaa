@@ -50,7 +50,7 @@ Motivo da demora:
 
 Previsão:
 Assim que possível,
-Arthur aparecerá por aqui ❤️`
+Arthur aparecerá por aqui ❤️`,
 
 
     `❤️ Ei...
