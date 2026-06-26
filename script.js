@@ -26,6 +26,7 @@ Se eu sumi por algumas horas,
 
 Não porque eu deixei de pensar em você.`,
 
+
 `❤️ Você continua sendo importante para mim.
 
 Não importa quanto tempo eu demore para responder.
@@ -34,11 +35,13 @@ Eu volto.
 
 Sempre volto.`,
 
+
 `❤️ Ainda gosto de você.
 
 Ainda quero conversar com você.
 
 Ainda quero cuidar de você.`,
+
 
 `❤️ Atualização do Sistema
 
@@ -53,7 +56,7 @@ Assim que possível,
 Arthur aparecerá por aqui ❤️`,
 
 
-    `❤️ Ei...
+`❤️ Ei...
 Lembra da Teoria do Caos?
 
 O universo pode estar confuso agora,
@@ -62,6 +65,7 @@ mas o meu sentimento por você
 
 O silêncio é só o trabalho.
 Meu coração continua no mesmo lugar.`,
+
 
 `❤️ Atenção, camarada:
 
@@ -75,6 +79,7 @@ com alienação do meu afeto.
 A nossa base aliada continua forte.
 Eu já volto ❤️`,
 
+
 `❤️ Atualização da Resistência
 
 O silêncio nunca significa
@@ -84,8 +89,9 @@ O front de trabalho me chamou,
 mas você continua sendo
 o meu porto seguro e o meu ideal.
 
-Históricamente comprovado:
+Historicamente comprovado:
 Eu sempre volto.`,
+
 
 `❤️ Um lembrete filosófico:
 
@@ -121,17 +127,15 @@ Status do Sentimento:
 
 O silêncio é só foco aqui.
 Te adoro. Até já.`
-
 ];
 
 const botao = document.getElementById("botao");
-
 const resposta = document.getElementById("resposta");
 
 botao.onclick = () => {
 
-    let aleatoria = Math.floor(Math.random()*mensagens.length);
+    let aleatoria = Math.floor(Math.random() * mensagens.length);
 
-    resposta.innerHTML = mensagens[aleatoria].replace(/\n/g,"<br>");
+    resposta.innerHTML = mensagens[aleatoria].replace(/\n/g, "<br>");
 
-}
+};
